@@ -1,0 +1,11 @@
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\bin\Release\netcoreapp2.1\MyDictionary.deps.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\bin\Release\netcoreapp2.1\MyDictionary.runtimeconfig.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\bin\Release\netcoreapp2.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\bin\Release\netcoreapp2.1\MyDictionary.dll
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\bin\Release\netcoreapp2.1\MyDictionary.pdb
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.csprojAssemblyReference.cache
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.AssemblyInfo.cs
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.dll
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\MyDictionary\obj\Release\netcoreapp2.1\MyDictionary.pdb
